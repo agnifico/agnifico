@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @agnifico
 - 👀 I’m interested in data science, design, NLP, and gaming.
 - 🌱 I’m currently learning web dev, neural networking. 
-- 💞️ I’m looking to collaborate on nothing as such right now. I need to enhance myself first :)
+- 💞️ I’m looking to collaborate on nothing as such right now. Working on a few solo projects right now :)
 - 📫 How to reach me agnifico@outlook.com
 
 <!---
