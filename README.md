@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @agnifico
 - 👀 I’m interested in data science, design, NLP, and gaming.
-- 🌱 I’m currently learning wWeb Development technologies: HTML, CSS, JS, React, Node, Express, MongoDB, and Angular.
-- 💞️ I’m not looking to collaborate on anything as such. Working on a few solo projects right now :)
-- 📫 How to reach me agnifico@outlook.com
+- 🌱 I’m currently learning Web Development technologies: the whole MERN stack.
+- 💞️ I’m working on a few solo projects right now.
+- 📫 How to reach me: agnihotra.bhattacharya@gmail.com // agnicodes@gmail.com
 
 <!---
 agnifico/agnifico is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
