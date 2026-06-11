@@ -57,7 +57,7 @@ Notes app where your notes grow as trees.
 
 </td>
 <td width="45%" valign="top">
-  <img src="https://cdn.dribbble.com/userupload/48019236/file/fce38b8c61471790263d456e2af9e297.png" alt="Arboreum" width="100%" />
+  <img src="https://cdn.dribbble.com/userupload/48020100/file/da2405573b4dfc128433e88d1ccfbde2.png" alt="Arboreum" width="100%" />
 </td>
 </tr>
 
