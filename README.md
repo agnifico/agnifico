@@ -7,10 +7,13 @@
 <p align="center">I design things and build them too.</p>
 
 <p align="center">
-  <a href="https://junesforge.com">junesforge.com</a> &nbsp;·&nbsp;
-  <a href="https://dribbble.com/jxnesforge">Dribbble</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/agnihotra-bhattacharya/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:agnihotra.bhattacharya@gmail.com">Email</a>
+  <a href="https://junesforge.com"><img src="https://img.shields.io/badge/junesforge.com-111111?style=flat-square&logo=safari&logoColor=white" alt="Portfolio" /></a>
+  &nbsp;
+  <a href="https://dribbble.com/jxnesforge"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=flat-square&logo=dribbble&logoColor=white" alt="Dribbble" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/agnihotra-bhattacharya/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="mailto:agnihotra.bhattacharya@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
@@ -23,23 +26,49 @@ Currently open to **Product Designer** and **Designer–Engineer** roles in Beng
 
 ## Work
 
-| Project | What | Stack |
-|---------|------|-------|
-| [**Dawn's Journey**](https://dawns-journey.vercel.app) | Browser RPG — solo build. World exploration, turn-based arena combat, farming, crafting, 14 NPCs. No backend. | SvelteKit · TypeScript · Tiled |
-| [**Arboreum**](https://arboreum-v1.vercel.app) | Notes app where your notes grow as trees. Same design vocabulary as DJ, different domain. | SvelteKit · TypeScript |
-| [**Isometric Cities**](https://dribbble.com/jxnesforge) | Four isometric cityscapes. Environment illustration series on Dribbble. | Affinity Designer |
-| [**Forge Blueprints**](https://dribbble.com/shots/25752613-Forge-Blueprints) | Art-deco blade, shield, and spear technical drawings. | Illustrator |
-| [**Insta Help — Rebrand**](https://www.junesforge.com/docs/InstaHelp_Case_study.pdf) | Self-directed rebrand case study. | Affinity · Branding |
-| [**Logos & Type**](https://dribbble.com/jxnesforge) | Commissions, event logos, 36 Days of Type, stickers, typographic studies. | Affinity · Illustrator |
+**Dawn's Journey** — Browser RPG. World exploration, turn-based arena combat, farming, crafting, 14 NPCs. No backend.
+
+<a href="https://dawns-journey.vercel.app"><img src="https://img.shields.io/badge/▶ Play Now-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Play Now" /></a>
+&nbsp;
+<a href="https://github.com/agnifico/dawns-journey"><img src="https://img.shields.io/badge/Repo-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
+
+---
+
+**Arboreum** — Notes app where your notes grow as trees.
+
+<a href="https://arboreum-v1.vercel.app"><img src="https://img.shields.io/badge/▶ Open App-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Open App" /></a>
+&nbsp;
+<a href="https://github.com/agnifico/arboreum"><img src="https://img.shields.io/badge/Repo-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
+
+---
+
+**Design work** — Isometric cities, technical illustrations, brand identities, logos, typographic studies.
+
+<a href="https://dribbble.com/jxnesforge"><img src="https://img.shields.io/badge/View on Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble" /></a>
 
 ---
 
 ## Stack
 
-**Design** — Affinity Designer, Figma, Illustrator, Photoshop  
-**Frontend** — SvelteKit, TypeScript, HTML/CSS  
-**Tools** — Tiled, TensorArt, DaVinci Resolve, Audacity  
-**AI** — Diffusion pipelines, CFG tuning, LORAs, Claude
+**Languages & Frameworks**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Design Tools**
+
+![Affinity Designer](https://img.shields.io/badge/Affinity_Designer-1B72BE?style=flat-square&logo=affinity-designer&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
+
+**Tooling & Platforms**
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 ---
 
