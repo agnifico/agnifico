@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @agnifico
-- 👀 I’m interested in data science, design, NLP, and gaming.
-- 🌱 I’m currently learning Web Development technologies: the whole MERN stack.
-- 💞️ I’m working on a few solo projects right now.
+- 🎮 I’m interested in design, gaming, sustainability, and quite into trivia.
+- 🪐 My interest in design extends to all forms - in nature, in everyday products, in architecture, as well as meta-balancing in video games.
+- 🌸 I'm currently learning AI based workflows - image generation, and coding beyond my knowledge range.
+- 💞️ I’m working on a browser based combat game - https://waves-impact.vercel.app.
+- 🔥 I work as a solo freelancer under the banner of Junesforge.
 
 <!---
 agnifico/agnifico is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
