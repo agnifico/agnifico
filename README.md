@@ -26,25 +26,57 @@ Currently open to **Product Designer** and **Designer–Engineer** roles in Beng
 
 ## Work
 
-**Dawn's Journey** — Browser RPG. World exploration, turn-based arena combat, farming, crafting, 14 NPCs. No backend.
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### Dawn's Journey
+Browser RPG. World exploration, turn-based arena combat, farming, crafting, 14 NPCs. No backend.
 
 <a href="https://dawns-journey.vercel.app"><img src="https://img.shields.io/badge/▶ Play Now-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Play Now" /></a>
 &nbsp;
 <a href="https://github.com/agnifico/dawns-journey"><img src="https://img.shields.io/badge/Repo-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
 
----
+</td>
+<td width="45%" valign="top">
+  <img src="https://cdn.dribbble.com/userupload/48019236/file/fce38b8c61471790263d456e2af9e297.png" alt="Dawn's Journey" width="100%" />
+</td>
+</tr>
 
-**Arboreum** — Notes app where your notes grow as trees.
+<tr><td colspan="2"><br /></td></tr>
+
+<tr>
+<td width="55%" valign="top">
+
+### Arboreum
+Notes app where your notes grow as trees.
 
 <a href="https://arboreum-v1.vercel.app"><img src="https://img.shields.io/badge/▶ Open App-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Open App" /></a>
 &nbsp;
 <a href="https://github.com/agnifico/arboreum"><img src="https://img.shields.io/badge/Repo-24292e?style=for-the-badge&logo=github&logoColor=white" alt="Repo" /></a>
 
----
+</td>
+<td width="45%" valign="top">
+  <img src="https://cdn.dribbble.com/userupload/48019236/file/fce38b8c61471790263d456e2af9e297.png" alt="Arboreum" width="100%" />
+</td>
+</tr>
 
-**Design work** — Isometric cities, technical illustrations, brand identities, logos, typographic studies.
+<tr><td colspan="2"><br /></td></tr>
+
+<tr>
+<td width="55%" valign="top">
+
+### Design Work
+Isometric cities, technical illustrations, brand identities, logos, typographic studies.
 
 <a href="https://dribbble.com/jxnesforge"><img src="https://img.shields.io/badge/View on Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble" /></a>
+
+</td>
+<td width="45%" valign="top">
+  <img src="https://cdn.dribbble.com/userupload/48019236/file/fce38b8c61471790263d456e2af9e297.png" alt="Design work" width="100%" />
+</td>
+</tr>
+</table>
 
 ---
 
