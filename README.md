@@ -73,7 +73,7 @@ Isometric cities, technical illustrations, brand identities, logos, typographic 
 
 </td>
 <td width="45%" valign="top">
-  <img src="https://cdn.dribbble.com/userupload/48019236/file/fce38b8c61471790263d456e2af9e297.png" alt="Design work" width="100%" />
+  <img src="https://cdn.dribbble.com/userupload/19573735/file/original-10b6be6765b65ee23c9c7ab8f49f7cf3.jpg" alt="Design work" width="100%" />
 </td>
 </tr>
 </table>
