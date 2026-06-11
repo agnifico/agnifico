@@ -3,7 +3,7 @@
 - 🪐 My interest in design extends to all forms - in nature, in everyday products, in architecture, as well as meta-balancing in video games.
 - 🌸 I'm currently learning AI based workflows - image generation, and coding beyond my knowledge range.
 - 💞️ I’m working on a browser based combat game - https://waves-impact.vercel.app.
-- 🔥 I work as a solo freelancer under the banner of Junesforge.
+- 🔥 I work as a solo freelancer under the banner of Junesforge. My first product and game (in beta): https://dawns-journey.vercel.app.
 
 <!---
 agnifico/agnifico is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
